@@ -1,0 +1,17 @@
+name: Server
+version: '${project.version}'
+main: vanden.server.Server
+api-version: 1.19
+commands:
+  l:
+    description: ""
+  getmap:
+    description: ""
+  status:
+    description: ""
+  dice:
+    description: ""
+  random:
+    description: ""
+  me:
+    description: ""
